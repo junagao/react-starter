@@ -12,3 +12,6 @@ build
 
 # log files
 yarn-error.log
+
+# linting
+.eslintcache
